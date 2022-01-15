@@ -1,4 +1,4 @@
-### Hola, I'm Daffa Rizqi 👋
+### Sup, I'm Daffa Rizqi 👋
 
 
 - 🔭 I’m currently a college student based in jakarta, Indonesia and a fullstack dev bootcamp student.
