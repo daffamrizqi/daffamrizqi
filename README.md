@@ -2,8 +2,7 @@
 ### Sup, Folks 👋
 
 
-- 🔭 Backend wannabe.
-- 👯 I’m looking to collaborate on GitHub
+- 🔭 alright alright.
 - 📲  How to reach me: 
   [Twitter - caloninvestor](https://twitter.com/caloninvestor),
   [Instagram - daffa_rizqi](https://www.instagram.com/daffa_rizqi/),
